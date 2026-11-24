@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+dist/
+build/
+data/*.parquet
+results/*.png
+paper/
+.licenses/
+.DS_Store
